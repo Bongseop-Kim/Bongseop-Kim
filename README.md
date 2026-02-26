@@ -1,5 +1,9 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=818CF8&center=true&vCenter=true&width=700&lines=React+Native+%2F+Expo+개발자;Claude+Code+%2B+CodeRabbit+기반+워크플로우;AI가+설계하고%2C+AI가+검토합니다;TDD+%2B+AI+워크플로우를+실천합니다" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=818CF8&center=true&vCenter=true&width=700&lines=React+Native+%2F+Expo+Developer;AI-driven+development+with+Claude+Code;Plan+%E2%86%92+Implement+%E2%86%92+Verify+%E2%86%92+Deliver;Every+PR+reviewed+by+CodeRabbit" alt="Typing SVG" />
+</div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Bongseop-Kim&color=818CF8&style=flat" alt="Profile Views" />
 </div>
 
 <br/>
@@ -72,3 +76,20 @@
   <img src="https://streak-stats.demolab.com?user=Bongseop-Kim&theme=tokyonight&hide_border=true&locale=ko" alt="GitHub Streak" />
 </div>
 
+<br/>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Bongseop-Kim&theme=tokyonight&no-frame=true&row=1&column=7" alt="Trophy" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Bongseop-Kim&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Bongseop-Kim/Bongseop-Kim/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
+</div>
