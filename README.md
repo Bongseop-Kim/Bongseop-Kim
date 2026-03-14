@@ -79,7 +79,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Bongseop-Kim&theme=tokyo-night&no-frame=true&row=1&column=6" alt="Trophy" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Bongseop-Kim&theme=tokyonight&no-frame=true&row=1&column=6" alt="Trophy" />
 </div>
 
 <br/>
