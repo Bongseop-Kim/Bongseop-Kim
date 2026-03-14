@@ -79,12 +79,6 @@
 <br/>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Bongseop-Kim&theme=tokyonight&no-frame=true&row=1&column=6" alt="Trophy" />
-</div>
-
-<br/>
-
-<div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Bongseop-Kim&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
 </div>
 
