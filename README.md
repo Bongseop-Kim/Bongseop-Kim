@@ -12,23 +12,14 @@
 
 ## 이렇게 개발합니다
 
-**Claude Code Plugins**와 **CodeRabbit**을 파이프라인 전체에 녹여낸 AI 에이전트 개발 워크플로우를 실천합니다.
+AI 도구를 단순 활용하는 차원을 넘어, **개발 환경의 생산성을 극대화하는 인프라와 워크플로우를 직접 설계**합니다.
 
-<div align="center">
-
-| 단계 | 도구 | 역할 |
-|:---:|:---|:---|
-| **계획** | Superpowers (Brainstorm, Plans) | 요구사항 분석, 구현 계획 수립 |
-| **구현** | Superpowers (TDD), Frontend Design | 테스트 우선 개발, UI 컴포넌트 구축 |
-| **지원** | Context7, TypeScript LSP | 라이브러리 문서 참조, 실시간 타입 검사 |
-| **검증** | Superpowers (Debug, Verify) | 체계적 디버깅, 완료 전 검증 |
-| **배포** | Commit Commands | 커밋, 푸시, PR 생성 자동화 |
-| **리뷰** | CodeRabbit, Code Review | PR 자동 리뷰, 코드 품질 관리 |
-| **유지보수** | Code Simplifier, Claude MD Management | 코드 정리, 프로젝트 문서 관리 |
-
-</div>
-
-> AI가 단순 보조 도구가 아닌, **개발 파이프라인 전 단계에 참여**합니다.
+| 분야 | 내용 | 성과 |
+| :--- | :--- | :--- |
+| **AI CI/CD & 품질 자동화** | Git Pre-commit 및 GitHub Actions를 연계하여, AI 생성 코드의 정합성과 운영 효율성을 관리하는 피드백 루프 운영 | 배포 안정성 및 코드 품질 극대화 |
+| **멀티 LLM 오케스트레이션** | Claude·Codex·Gemini 중 최적의 모델로 작업을 자동 위임하는 [oh-my-bridge](https://github.com/Bongseop-Kim/oh-my-bridge) MCP 서버 개발 | 비용 **약 50% 절감**, 작업 품질 향상 |
+| **사내 디자인 시스템 구축** | DDS(Duego Design System) 도입을 제안하고, Claude Code 플러그인으로 패키징하여 UI 일관성 유지 | UI 개발 시간 **약 60% 단축** |
+| **BFF-less 아키텍처** | Supabase의 RLS, RPC, Trigger를 활용해 서버리스 기반의 보안과 데이터 무결성을 보장하는 효율적 아키텍처 지향 | 시스템 복잡도 감소 및 생산성 개선 |
 
 <br/>
 
@@ -38,26 +29,21 @@
 
 <div align="center">
 
-**Mobile**
+**Languages & Frameworks**
+<br>
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" /> <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" /> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/Astro-BC52EE?style=for-the-badge&logo=astro&logoColor=white" />
 
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-
-**Web**
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+<br>
 
 **Backend & Infra**
+<br>
+<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" /> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+<br>
 
-**Tooling**
-
-![Turborepo](https://img.shields.io/badge/Turborepo-EF4444?style=for-the-badge&logo=turborepo&logoColor=white)
-![pnpm](https://img.shields.io/badge/pnpm-F69220?style=for-the-badge&logo=pnpm&logoColor=white)
-![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white)
+**AI & Tooling**
+<br>
+<img src="https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white" /> <img src="https://img.shields.io/badge/Gemini_CLI-8E75C2?style=for-the-badge&logo=googlegemini&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" /> <img src="https://img.shields.io/badge/Turborepo-EF4444?style=for-the-badge&logo=turborepo&logoColor=white" /> <img src="https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white" /> <img src="https://img.shields.io/badge/Playwright-45BA4B?style=for-the-badge&logo=playwright&logoColor=white" />
 
 </div>
 
